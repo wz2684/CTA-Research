@@ -22,7 +22,7 @@ are intentionally omitted.
 
 Additional code or data may be provided upon request, subject to internal approval and usage constraints.
 
-# Usage Notes
+## Usage Notes
 Results shown in notebooks may depend on:
 
 proprietary data
